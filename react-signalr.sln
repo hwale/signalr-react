@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "react-signalr", "react-signalr\react-signalr.esproj", "{5AC77E50-726C-424F-9161-0822C256BD39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-signalr-backend", "react-signalr-backend\react-signalr-backend.csproj", "{7D943F40-D5D3-47C6-9B25-3C544724BB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC77E50-726C-424F-9161-0822C256BD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC77E50-726C-424F-9161-0822C256BD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC77E50-726C-424F-9161-0822C256BD39}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5AC77E50-726C-424F-9161-0822C256BD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC77E50-726C-424F-9161-0822C256BD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC77E50-726C-424F-9161-0822C256BD39}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7D943F40-D5D3-47C6-9B25-3C544724BB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D943F40-D5D3-47C6-9B25-3C544724BB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D943F40-D5D3-47C6-9B25-3C544724BB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D943F40-D5D3-47C6-9B25-3C544724BB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62ABAFB9-CD2A-49D1-995F-EE6D171A03D9}
+	EndGlobalSection
+EndGlobal
